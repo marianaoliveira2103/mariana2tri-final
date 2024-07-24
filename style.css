@@ -1,0 +1,22 @@
+body {background-color: blueviolet;}
+h2 {text-align: center;
+    color: rgb(27, 5, 48);}
+#ima2 {width: 15%;}
+#ima2 {margin-left: 70%;}
+#ima3 {width: 20%;}
+#ima3 {margin-left: 10%;}
+#ima1 {margin-left: 40%;}
+#ima4 {margin-left: 25%;}
+#ima4 {width: 50%;}
+
+h1 {text-align: center;
+    color: azure;
+    border-style: groove;}
+
+h3 {text-align: center;
+    color: rgb(38, 4, 70);
+    border-style: dotted;
+    border-color: black;}
+
+h4{text-align: center;}
+
